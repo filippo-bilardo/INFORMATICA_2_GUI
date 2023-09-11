@@ -6,4 +6,7 @@ sudo apt-get install build-essential
 #kivy
 sudo apt-get install python3-kivy
 
+## installazione su colab
+pip install kivy
+
 ## TODO non funziona 
